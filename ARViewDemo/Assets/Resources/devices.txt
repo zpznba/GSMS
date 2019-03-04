@@ -1,0 +1,1 @@
+Android.ANDROID_ID=4622aed1a993b4bf,Android.SERIAL=daa180bb

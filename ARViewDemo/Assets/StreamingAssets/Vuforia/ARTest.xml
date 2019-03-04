@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="temp" size="1920.000000 1325.000000" />
+    <ImageTarget name="20180926195527" size="945.000000 596.000000" />
+    <ImageTarget name="jining" size="512.000000 325.853180" />
+    <ImageTarget name="IMG_20180603_124541" size="256.000000 160.061188" />
+    <ImageTarget name="IMG_20180602_191207_1" size="512.000000 684.477478" />
+    <ImageTarget name="MainImage" size="512.000000 382.984131" />
+  </Tracking>
+</QCARConfig>

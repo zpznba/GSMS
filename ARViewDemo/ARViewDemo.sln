@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARViewDemo", "Assembly-CSharp.csproj", "{E2361519-06A3-478C-F660-3AEF975799E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARViewDemo", "Assembly-CSharp-Editor.csproj", "{144D99EB-288A-25FD-FCCF-A92AC56B74CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2361519-06A3-478C-F660-3AEF975799E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2361519-06A3-478C-F660-3AEF975799E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2361519-06A3-478C-F660-3AEF975799E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2361519-06A3-478C-F660-3AEF975799E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144D99EB-288A-25FD-FCCF-A92AC56B74CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144D99EB-288A-25FD-FCCF-A92AC56B74CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144D99EB-288A-25FD-FCCF-A92AC56B74CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144D99EB-288A-25FD-FCCF-A92AC56B74CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
